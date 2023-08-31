@@ -195,5 +195,5 @@
 <br />
 <!-- https://github.com/shravan20/github-readme-quotes -->
 <div align="center">
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark)
 </div>
