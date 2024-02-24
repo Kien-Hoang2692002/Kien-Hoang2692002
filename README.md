@@ -119,7 +119,7 @@
 &nbsp;
 <span
   ><img
-    src="https://camo.githubusercontent.com/4eade77f6242a74645c408f1cc48b4c05f3c7c8a74d0bf15c2a1e259e4d357d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d7953514c2d3434373941313f7374796c653d666c61742d737175617265266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465"
+    src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"
     alt="MySQL logo"
     title="MySQL"
     height="25"
