@@ -15,7 +15,7 @@
 &nbsp;
 <span
   ><img
-    src="https://camo.githubusercontent.com/ffd9d644a0cd1aa5a85146d6c1d011c8b1d0e83aca695626a423848a0b59a635/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d6666666634373f7374796c653d666c61742d737175617265266c6f676f3d707974686f6e"
+    src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"
     alt="Python logo"
     title="Python"
     height="25"
@@ -111,7 +111,7 @@
 &nbsp;
 <span
   ><img
-    src="https://camo.githubusercontent.com/2892d6be457d18ee7aa370257b7ca9ae0cc3a33f4053c187dd716158738b5ecc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f737467726553514c2d3331363139322e7376673f267374796c653d666c61742d737175617265266c6f676f3d706f737467726573716c266c6f676f436f6c6f723d7768697465"
+    src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"
     alt="PostGreSQL logo"
     title="PostGreSQL"
     height="25"
