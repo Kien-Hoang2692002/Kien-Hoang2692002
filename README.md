@@ -1,5 +1,9 @@
-<img src="https://komarev.com/ghpvc/?username=hungngohihihi&style=flat-square&color=blue" alt="Loading...">
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<div>
+  <span>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+    <img src="https://komarev.com/ghpvc/?username=Kien-Hoang2692002&style=flat-square&color=blue" alt="Loading...">
+  </span>
+</div>
 <a href="#" target="_blank">
   <img src="svg/kienhoang269.svg" width="1200" alt="Click to see the source" />
 </a>
