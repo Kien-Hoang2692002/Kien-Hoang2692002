@@ -227,6 +227,9 @@
       alt="kienhoang269-instagram"
     />
   </a>
+   <a href="https://www.linkedin.com/in/ki%C3%AAn-ho%C3%A0ng-956032179/" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="Kiên Hoàng-linkedin" />
+  </a>
   <a href="mailto:hoatruongquay@gmail.com" target="top">
     <img
       src="https://img.icons8.com/bubbles/100/000000/apple-mail.png"
