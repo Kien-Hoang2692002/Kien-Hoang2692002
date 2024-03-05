@@ -1,7 +1,7 @@
 <div>
   <span>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-    <img src="https://komarev.com/ghpvc/?username=Kien-Hoang2692002&style=flat-square&color=blue" alt="Loading...">
+    <img src="https://komarev.com/ghpvc/?username=Kien-Hoang2692002&style=or-the-badge&color=ff69b4" alt="Loading...">
   </span>
 </div>
 <a href="#" target="_blank">
